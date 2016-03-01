@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pvirgiliimaroni04virggoog/pvirgiliimaroni04virggoog_0238.png"; bbox 0 0 2866 5234; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 452 1778 890 1862">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 452 1778 890 1862">
+     <span class='ocr_line' id='line_1_1' title="bbox 452 1778 890 1862; baseline 0.032 -14"><span class='ocrx_word' id='word_1_1' title='bbox 452 1780 489 1848; x_wconf 80' lang='grc' dir='ltr'>Ρ.</span> <span class='ocrx_word' id='word_1_2' title='bbox 515 1778 683 1857; x_wconf 78' lang='lat' dir='ltr'>vmcml</span> <span class='ocrx_word' id='word_1_3' title='bbox 706 1783 890 1862; x_wconf 74' lang='lat' dir='ltr'><strong>mfloMs</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 131 1904 1202 2189">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 42 1904 1260 2297">
+     <span class='ocr_line' id='line_1_2' title="bbox 131 1904 1202 2189; baseline -0.011 11.977"><span class='ocrx_word' id='word_1_4' title='bbox 131 1904 166 2126; x_wconf 57' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_5' title='bbox 403 1950 1202 2189; x_wconf 66' lang='lat' dir='ltr'>Atutta&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 488 2340 849 2380">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 488 2340 849 2380">
+     <span class='ocr_line' id='line_1_3' title="bbox 488 2340 849 2380; baseline 0 -6"><span class='ocrx_word' id='word_1_6' title='bbox 488 2340 849 2380; x_wconf 48' lang='lat' dir='ltr'>nnn-&lt;mm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1438 5234">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1438 5234">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1438 5234; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1438 5234; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
